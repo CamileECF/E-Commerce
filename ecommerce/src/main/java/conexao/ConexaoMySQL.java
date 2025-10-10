@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConexaoMySQL implements ConexaoBD {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/escola";
+    private static final String URL = "jdbc:mysql://localhost:3306/ecommerce";
     private static final String USUARIO = "root";
     private static final String SENHA = "1234";
 
